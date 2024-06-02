@@ -1,9 +1,9 @@
 .message {
-
+   background-color: #FFF;
 }
 
 .imageAndText {
-
+   
 }
 
 .imageAndText img {
@@ -11,7 +11,7 @@
 }
 
 .text {
-
+background-color: rgba(0, 102, 204, 1);
 }
 
 .text:after {
